@@ -1,0 +1,5 @@
+﻿  Data.cpp
+E:\算法与数据结构\数组队列\数组队列\Data.cpp(24,20): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\算法与数据结构\数组队列\数组队列\Data.cpp(78): warning C4715: “Data::add”: 不是所有的控件路径都返回值
+E:\算法与数据结构\数组队列\数组队列\Data.cpp(109): warning C4715: “Data::delete_place”: 不是所有的控件路径都返回值
+  数组队列.vcxproj -> E:\算法与数据结构\数组队列\x64\Debug\数组队列.exe
